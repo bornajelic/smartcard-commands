@@ -1,0 +1,4 @@
+﻿  main.cpp
+\\mars\domain_homes\bjelic\documents\visual studio 2015\projects\smartcard program\smartcard program\main.cpp(132): warning C4715: 'WindowProcedure': not all control paths return a value
+  SmartCard Program.vcxproj -> \\mars\domain_homes\bjelic\documents\visual studio 2015\Projects\SmartCard Program\Debug\SmartCard Program.exe
+  SmartCard Program.vcxproj -> \\mars\domain_homes\bjelic\documents\visual studio 2015\Projects\SmartCard Program\Debug\SmartCard Program.pdb (Full PDB)
