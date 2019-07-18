@@ -18,7 +18,7 @@ std::string helpers::HexToString(unsigned char *buffer, unsigned int lenght) {
 
 void helpers::hexToByte(std::string hex, unsigned char *val, int& lenght) { //BYTE unsigned char
 	std::string hexArray = "0123456789ABCDEF";
-	std::string tmp;
+	
 
 	for (int i = 0; i < hex.length()/2; ++i) {
 		val[i] = hexArray.find(hex[i*2]) << 4;
